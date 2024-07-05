@@ -22,6 +22,13 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Gibson-Arbey)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Gibson-Arbey)
 
+
+### Actualmente estoy aprendiendo
+[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/Gibson-Arbey)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Gibson-Arbey)
+[![Express.JS](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/Gibson-Arbey)
+
+
 <summary>Mis estadisticas <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary>
 <p align="center">
   <a href="https://github.com/Gibson-Arbey">
