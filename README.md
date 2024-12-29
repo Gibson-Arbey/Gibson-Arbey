@@ -47,30 +47,30 @@
 <br></br>
 
 ## Mis estadísticas
-<p align="center" style="text-align: center;">
-  <!-- Estadísticas generales -->
-  <a href="https://github.com/Gibson-Arbey">
-    <figure style="display: inline-block; margin: 10px; text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gibson-Arbey&theme=radical" alt="Estadísticas generales" />
-      <figcaption style="margin-top: 5px;">Estadísticas generales del perfil</figcaption>
-    </figure>
-  </a>
-  
-  <!-- Racha de contribuciones -->
-  <a href="https://github.com/Gibson-Arbey">
-    <figure style="display: inline-block; margin: 10px; text-align: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gibson-Arbey&hide_border=true&card_width=338&theme=radical" alt="Racha de contribuciones" />
-      <figcaption style="margin-top: 5px;">Racha de contribuciones diarias</figcaption>
-    </figure>
-  </a>
-  
-  <!-- Lenguajes más usados -->
-  <a href="https://github.com/Gibson-Arbey">
-    <figure style="display: inline-block; margin: 10px; text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gibson-Arbey&theme=radical" alt="Lenguajes más usados" />
-      <figcaption style="margin-top: 5px;">Lenguajes más usados en repositorios</figcaption>
-    </figure>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Gibson-Arbey">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gibson-Arbey&theme=radical" alt="Estadísticas generales" />
+      </a>
+      <p>Estadísticas generales del perfil</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gibson-Arbey">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gibson-Arbey&hide_border=true&card_width=338&theme=radical" alt="Racha de contribuciones" />
+      </a>
+      <p>Racha de contribuciones diarias</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/Gibson-Arbey">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gibson-Arbey&theme=radical" alt="Lenguajes más usados" />
+      </a>
+      <p>Lenguajes más usados en repositorios</p>
+    </td>
+  </tr>
+</table>
+
 
 
